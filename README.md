@@ -1,1 +1,2 @@
-# SQL-Miniproject
+# SQL-Miniproject 
+hello this is my miniproject
